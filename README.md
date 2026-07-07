@@ -44,7 +44,7 @@ Sau-Crypto-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Sau-Crypto-Chatbot.git
+git clone https://github.com/RajshreeGholase/Build-a-Custom-Langchain-AI-Assistant-ChatBot-.git
 cd Sau-Crypto-Chatbot
 ```
 
